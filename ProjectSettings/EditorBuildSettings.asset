@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 99f38240b8e54433ba2f44b69aa3cec0
+  - enabled: 1
+    path: Assets/Scenes/SongSelect.unity
+    guid: 07834ca76adcb4424a373891e91dbd8e
+  - enabled: 1
+    path: Assets/Scenes/KpopLevel.unity
+    guid: f3467da6064b44025a5ee3986bfaf86d
+  - enabled: 1
+    path: Assets/Scenes/HeroLevel.unity
+    guid: 2ab46a74c4d8545269e91ffbe6d349b5
+  - enabled: 1
+    path: Assets/Scenes/ClassicLevel.unity
+    guid: 39ac41e4f59bd4914bef9012fa449231
+  - enabled: 1
+    path: Assets/Scenes/KpopLow.unity
+    guid: e09001138c65d4e4cab2bf0a83a273c6
+  - enabled: 1
+    path: Assets/Scenes/KpopMed.unity
+    guid: c0bd45389035942cda655f4e60846193
+  - enabled: 1
+    path: Assets/Scenes/KpopHigh.unity
+    guid: bcc9274823ce64a24a3066c1d1885e80
+  - enabled: 1
+    path: Assets/Scenes/HeroLow.unity
+    guid: fb938f536da394d0fbaea2df5c560a5a
+  - enabled: 1
+    path: Assets/Scenes/HeroMed.unity
+    guid: 0f7f1b8c1f81e495e9a81e4625ec8b72
+  - enabled: 1
+    path: Assets/Scenes/HeroHigh.unity
+    guid: b2559c6ca530b45b5ae899c642326631
+  - enabled: 1
+    path: Assets/Scenes/ClassicLow.unity
+    guid: ea45c9deb600843efb64d0428a724820
+  - enabled: 1
+    path: Assets/Scenes/ClassicMed.unity
+    guid: dbf260364b2794ea394fbe3b40389088
+  - enabled: 1
+    path: Assets/Scenes/ClassicHigh.unity
+    guid: 163c88976c0184b6a8f38fc5813e85e2
+  m_configObjects: {}
