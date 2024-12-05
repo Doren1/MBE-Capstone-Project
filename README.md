@@ -54,6 +54,8 @@
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/2d07b20e-ee07-41bf-86d1-76f6f3f5a1ed">
 
+- 리듬게임 안에서 3개의 레인 존재: 왼쪽부터 검지, 중지, 약지에 해당
+
 
 <br>
 
