@@ -246,7 +246,7 @@ public class GameManagerLow : MonoBehaviour
         multiplierTracker = 0; 
         missedHits++; 
         RegisterHit(buttonColor, "miss"); 
-        multiText.text = "Multiplier: x" + currentMultiplier; 
+        multiText.text = "보너스: x" + currentMultiplier; 
     }
 
     public void RegisterHit(string buttonColor, string hitType)
