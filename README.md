@@ -1,11 +1,11 @@
 ## Rhythm Game 'EnjoyRhythm' 
 - developed to improve the athletic ability of Parkinson's disease patients
-
+- Capstone project in Division of Mechanical & Biomedical Engineering
+  
 <br>
 
 ---
 
-<br>
 
 ### 배경: 파킨슨병 
 - 도파민 신경세포의 소실로 발생하는 신경계 만성 진행성 퇴행성 질환
@@ -26,7 +26,6 @@
 
 ---
 
-<br>
 
 ### EnjoyRhythm 서비스 주요 특징
 1️⃣ 의료용 기능성 게임(운동 요법+음악 리듬 치료) 
@@ -45,17 +44,22 @@
 
 ---
 
-<br>
-
 ### 서비스 흐름도
 
 <img width="394" alt="image" src="https://github.com/user-attachments/assets/0a985c3d-244a-4a57-a07a-0a0690794e17">
+
+
+<리듬게임 노트 별 동작>
+
+- 차례대로 버튼 누르기(검지, 중지, 약지), 구부리기(검지, 중지, 약지), 버튼 누르기(소지) 
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2d07b20e-ee07-41bf-86d1-76f6f3f5a1ed">
+
 
 <br>
 
 ---
 
-<br>
 
 ### 주요 시나리오
 1️⃣ 진단하기
@@ -74,6 +78,7 @@
 
 3️⃣ 게임 진행
 
+<img width="500" height="330" alt="image" src="https://github.com/user-attachments/assets/0396ea65-f04d-481b-810b-305f2cc7e2fb">
 
 
 4️⃣ 상세 게임 결과 및 진단
@@ -84,7 +89,7 @@
 
 ---
 
-<br>
+
 ### 결과 시연 사진 및 동영상
 
 
@@ -92,7 +97,6 @@
 
 ---
 
-<br>
 
 ### 기대 효과
 1️⃣ 치료 준수도 향상
