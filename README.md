@@ -92,6 +92,8 @@
 
 ### 결과 시연 사진 및 동영상
 
+<img src="https://github.com/user-attachments/assets/2ec015b8-05ee-49fc-bbb4-dd7d73433f68">
+
 
 <br>
 
