@@ -1,6 +1,6 @@
 ## Rhythm Game 'EnjoyRhythm' 
 - developed to improve the athletic ability of Parkinson's disease patients
-- Capstone project in Division of Mechanical & Biomedical Engineering
+- Capstone project(졸업 프로젝트) in Division of Mechanical & Biomedical Engineering
   
 <br>
 
